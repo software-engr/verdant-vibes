@@ -1,0 +1,27 @@
+.header {
+background-color: #2e7d32;
+color: white;
+padding: 15px 40px;
+display: flex;
+justify-content: space-between;
+align-items: center;
+font-family: Arial, sans-serif;
+}
+
+.logo a {
+color: white;
+font-weight: bold;
+font-size: 1.8rem;
+text-decoration: none;
+}
+
+nav a {
+color: white;
+margin-left: 25px;
+font-weight: 600;
+text-decoration: none;
+}
+
+nav a.cart-link {
+font-size: 1.1rem;
+}
