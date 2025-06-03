@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/verdant-vibes/static/css/main.c82d0e10.css",
+    "main.js": "/verdant-vibes/static/js/main.1b544555.js",
+    "index.html": "/verdant-vibes/index.html",
+    "main.c82d0e10.css.map": "/verdant-vibes/static/css/main.c82d0e10.css.map",
+    "main.1b544555.js.map": "/verdant-vibes/static/js/main.1b544555.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c82d0e10.css",
+    "static/js/main.1b544555.js"
+  ]
+}
